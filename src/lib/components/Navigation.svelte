@@ -1,4 +1,4 @@
-<!-- TODO: add base path -->\
+<!-- TODO: add base path -->
 <div>
 	<div class="flex w-full h-full justify-center gap-6">
 		<a href="/" class="[writing-mode:vertical-lr] pt-10 text-5xl font-extrabold">Home</a>
